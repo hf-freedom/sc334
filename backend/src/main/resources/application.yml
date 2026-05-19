@@ -1,0 +1,11 @@
+server:
+  port: 8007
+
+spring:
+  application:
+    name: consignment-system
+
+consignment:
+  commission-rate: 0.05
+  payment-timeout-minutes: 30
+  default-consignment-days: 30
